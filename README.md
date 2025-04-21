@@ -11,6 +11,7 @@ To run the analysis, you need the following Python packages:
 - `numpy`
 - `pandas`
 - `skimage`
+- `scipy`
 - `tqdm`
 - `jupyterlab`
 
